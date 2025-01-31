@@ -1,3 +1,5 @@
+![Logo](https://eva.itecsur.edu.ec/pluginfile.php/1/theme_moove/logo/1734238572/Itecsur.png)
+
 ## INSTITUTO SUPERIOR COMPU SUR CON CONDICIÓN DE UNIVERSITARIO: ITECSUR.
 - [Patricio Suárez]
 
