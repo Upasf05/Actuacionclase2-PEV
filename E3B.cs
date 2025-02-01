@@ -90,6 +90,10 @@ internal class Program //Clase interna
         {
             Console.WriteLine("Has ganado la partida!"); //Ganar la partida
         }
+        else
+        {
+            Console.WriteLine("La partida ha terminado en empare"); //
+        }
     }
 
     private static bool juego() // Metodo para preguntar si se quiere continuar
