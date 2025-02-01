@@ -21,9 +21,9 @@ Buenas a todos, profesor y compañeros, esta es la actuación en clase con los e
 ## **Contenidos del repositorio** 
 Se realizaron los siguientes ejercicios:
 
--Calcular el área de un círculo
+-Calcular el área de un círculo.
 -Introducir una cantidad indefinida de números hasta que se introduzca 0, una vez finalizada la cadena sumar todos los números insertados.
 -Piedra papel o tijera.
-
-PRÓXIMAMENTE:
 -Piedra papel o tijera con vidas.
+-Piedra papel o tijera con vidas y con opción de continuar o salir tras cada partida.
+-Piedra papel o tijera con vidas, opción de continuar o salir tras cada partida y con funciones organizadas en un solo método (solución propuesta por el profesor).
