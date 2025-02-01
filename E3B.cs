@@ -92,7 +92,7 @@ internal class Program //Clase interna
         }
         else
         {
-            Console.WriteLine("La partida ha terminado en empare"); //
+            Console.WriteLine("La partida ha terminado en un empate"); //
         }
     }
 
