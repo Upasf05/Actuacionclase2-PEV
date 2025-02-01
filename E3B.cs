@@ -92,7 +92,7 @@ internal class Program //Clase interna
         }
         else
         {
-            Console.WriteLine("La partida ha terminado en un empate"); //
+            Console.WriteLine("La partida ha terminado en un empate"); //Empate si ambos quedan sin vidas (no se puede dar de forma normal)
         }
     }
 
